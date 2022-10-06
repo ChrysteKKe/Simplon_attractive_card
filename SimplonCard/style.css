@@ -1,0 +1,82 @@
+.html
+{font-family:;
+    size: 400px;
+font-size: 16px;
+    padding: 20px;
+    border: 4px;
+    color:black;
+    margin-bottom: 20px;
+    background-size: cover;
+  
+}
+
+.titre 
+{
+    display: flex;
+    font-size: 30px;
+    margin: 2px;
+    justify-content: center;
+    align-items: center;  
+}
+
+
+.GlobalContainer
+{ 
+    width: 960px;
+    margin: auto;
+ }
+
+
+
+.CardContainer
+{
+    display: flex;
+    align-items: flex-end;
+    height: 400px;
+    padding: 20px;
+    margin: 20px;
+    width:93%;
+    background-size: cover;
+   background-image:url(https://images.unsplash.com/photo-1516051662687-567d7c4e8f6a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80);
+    border:solid 4px;
+    border-color: #b0215e;
+    
+}
+
+.textContainer
+{
+background-color: white;
+width:50%;
+padding-top: 3px;
+padding-right: 3px;
+padding-bottom: 3px;
+padding-left: 3px;
+padding: 40px;
+margin: 20px;
+
+
+}
+
+
+.h2
+{ 
+    display: flex;
+    align-items: flex-end;
+    font-size: 20px;
+    margin: 20px;
+  
+   
+}
+
+.linked
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    
+padding-top: 3px;
+padding-right: 3px;
+padding-bottom: 3px;
+padding-left: 3px;
